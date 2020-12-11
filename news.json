@@ -1,14 +1,4 @@
-{
-"status": "ok"
-"feed": {
-"url": "https://rss.dw.com/rdf/rss-ar-all"
-"title": "Deutsche Welle: DW-WORLD.DE"
-"link": "http://www.dw.com/arabic/?maca=ara-rss-ar-all-1125-rdf"
-"author": ""
-"description": "Deutsche Welle: DW-WORLD.DE"
-"image": "https://rss.dw.com/images/DW-L-RGB_whitebg.png"
-}
-"items": [
+
 {
 "title": "ميركل: سنناقش صادرات الأسلحة لتركيا مع أمريكا وحلف الأطلسي"
 "pubDate": "2020-12-11 20:25:00"
@@ -159,5 +149,4 @@
 "رياضة"
 ]
 }
-]
-}
+
